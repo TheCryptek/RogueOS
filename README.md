@@ -12,13 +12,27 @@ Position | IRC Name  | Minecraft Name
 -------- | --------- | --------------
 Lead Developer | TheCryptek | TheCryptek
 Co-Developer | TheFox | rougeminner
+Alpha Tester | Open | Open
+Beta Tester | Open | Open
+
 
 # To-Do list
+- [x] Add /LICENSE
+- [x] /init.lua:2: OpenOS 1.6 -> RogueOS 1.0
+- [x] /.prop:1: OpenOS -> RogueOS
+- [x] Modify /usr/misc/greetings.txt
 - [ ] Get off of OpenOS 1.6 files
+- [ ] Begin Alpha Phase
+- [ ] Recruit Alpha Testers
+- [ ] Begin Beta Phase if Alpha Phase does not fail
+- [ ] Recruit Beta Testers
+- [ ] Have software pre-installed [ May or may not happen ]
 - [ ] Change the way the shell acts
+- [ ] Release RogueOS 1.0
+- [ ] RogueOS 1.0 -> RogueOS 2.0
+- [ ] Release RogueOS 2.0
 - [ ] Make our own APIs
 - [ ] Implement our own APIs
 - [ ] Create help documents for using our APIs and OS
-- [x] Add a license
-- [x] Change OpenOS 1.6 -> RogueOS 1.0
-- [x] Change grettings.txt
+- [ ] RogueOS 2.0 -> 3.0
+- [ ] Release RogueOS 3.0
