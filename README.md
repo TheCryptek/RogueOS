@@ -21,7 +21,7 @@ Beta Tester | Open | Open
 - [x] /init.lua:2: OpenOS 1.6 -> RogueOS 1.0
 - [x] /.prop:1: OpenOS -> RogueOS
 - [x] Modify /usr/misc/greetings.txt
-- [ ] Get off of OpenOS 1.6 files <-- ##Current Objective##
+- [ ] Get off of OpenOS 1.6 files <-- Current Objective
 - [ ] Begin Alpha Phase
 - [ ] Recruit Alpha Testers
 - [ ] Begin Beta Phase if Alpha Phase does not fail
