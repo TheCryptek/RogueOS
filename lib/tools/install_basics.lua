@@ -60,7 +60,7 @@ end
 --root_exception = rootAddress
 --if rootfs.isReadOnly() then
 --  root_exception = nil
-end
+--end
 
 -- this may be OpenOS specific, default to "" in case no /dev mount point
 local devfsAddress = (fs.get("/dev/") or {}).address or ""
