@@ -15,7 +15,7 @@ Co-Developer | TheFox | rougeminner
 Tester | Open | Open
 
 
-# To-Do list
+# RogueOS 1.0 To-Do list
 - [x] Add /LICENSE
 - [x] /init.lua:2: OpenOS 1.6 -> RogueOS 1.0
 - [x] /.prop:1: OpenOS -> RogueOS
@@ -27,3 +27,6 @@ Tester | Open | Open
 - [ ] Have software pre-installed [ May or may not happen ]
 - [ ] Change the way the shell acts
 - [ ] Create help documents for using RogueAPIs and RogueOS
+- [ ] Enter Testing Phase
+- [ ] RogueOS 1.0 release if test phase passes.
+- [ ] Generate new To-Do list.
