@@ -12,6 +12,7 @@ Position | IRC Name  | Minecraft Name
 -------- | --------- | --------------
 Lead Developer | TheCryptek | TheCryptek
 Co-Developer | TheFox | rougeminner
+Tester | N/A | Admicos
 Tester | Open | Open
 
 
