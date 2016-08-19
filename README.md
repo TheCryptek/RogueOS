@@ -18,5 +18,7 @@ Co-Developer | TheFox | rougeminner
 - [ ] Change the way the shell acts
 - [ ] Make our own APIs
 - [ ] Implement our own APIs
+- [ ] Create help documents for using our APIs and OS
+- [x] Add a license
 - [x] Change OpenOS 1.6 -> RogueOS 1.0
 - [x] Change grettings.txt
