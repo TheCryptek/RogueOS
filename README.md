@@ -12,8 +12,7 @@ Position | IRC Name  | Minecraft Name
 -------- | --------- | --------------
 Lead Developer | TheCryptek | TheCryptek
 Co-Developer | TheFox | rougeminner
-Alpha Tester | Open | Open
-Beta Tester | Open | Open
+Tester | Open | Open
 
 
 # To-Do list
@@ -21,18 +20,10 @@ Beta Tester | Open | Open
 - [x] /init.lua:2: OpenOS 1.6 -> RogueOS 1.0
 - [x] /.prop:1: OpenOS -> RogueOS
 - [x] Modify /usr/misc/greetings.txt
-- [ ] Get off of OpenOS 1.6 files <-- Current Objective
-- [ ] Begin Alpha Phase
-- [ ] Recruit Alpha Testers
-- [ ] Begin Beta Phase if Alpha Phase does not fail
-- [ ] Recruit Beta Testers
+- [ ] Get off of OpenOS 1.6 files but remain using OpenOS APIs<-- Current Objective
+- [ ] Make RogueAPIs
+- [ ] Implement RogueAPIs
+- [ ] Move from OpenOS APIs to our own RogueAPIs
 - [ ] Have software pre-installed [ May or may not happen ]
 - [ ] Change the way the shell acts
-- [ ] Release RogueOS 1.0
-- [ ] RogueOS 1.0 -> RogueOS 2.0
-- [ ] Release RogueOS 2.0
-- [ ] Make our own APIs
-- [ ] Implement our own APIs
-- [ ] Create help documents for using our APIs and OS
-- [ ] RogueOS 2.0 -> 3.0
-- [ ] Release RogueOS 3.0
+- [ ] Create help documents for using RogueAPIs and RogueOS
