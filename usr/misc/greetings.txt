@@ -1,0 +1,1 @@
+RogueOS 1.0 is based off of OpenOS 1.6
